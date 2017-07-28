@@ -1,0 +1,8 @@
+{
+  "author": "Matt Lavin <matt.lavin@gmail.com>",
+  "description": "A package.json just to track the Flow version",
+  "license": "ISC",
+  "dependencies": {
+    "flow-bin": "^0.51.1"
+  }
+}
