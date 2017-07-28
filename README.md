@@ -1,6 +1,8 @@
 Docker Flow
 ==============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mdlavin/docker-flow.svg)](https://greenkeeper.io/)
+
 A minimal packaging of Flow inside a Docker container.
 
 Why?
