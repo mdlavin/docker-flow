@@ -3,6 +3,6 @@
   "description": "A package.json just to track the Flow version",
   "license": "ISC",
   "dependencies": {
-    "flow-bin": "^0.107.0"
+    "flow-bin": "^0.109.0"
   }
 }
